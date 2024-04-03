@@ -2,7 +2,7 @@
 
 ## 🌟 Introduction
 
-Hey there, young designers and coders! Are you ready to dive into the cozy world of furniture and learn how to create an awesome website? 🌈👩‍💻 "Comfy Couch Co" is an exciting project where you get to showcase beautiful furniture that makes any room look inviting. Let’s get comfy and start coding!
+Hey there, young designers and coders! Are you ready to dive into the cozy world of furniture and learn how to create an awesome website? "Comfy Couch Co" is an exciting project where you get to showcase beautiful furniture that makes any room look inviting. Let’s get comfy and start coding!
 
 ## 📚 What Will You Learn?
 
